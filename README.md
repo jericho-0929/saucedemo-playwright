@@ -25,4 +25,4 @@ In accordance with the user journey, the following features were given specific 
 
 Guide: 📋 refers to a test that has no implemented automated test script, as of current commit.
 ## Test Results
-The folder playwright-report contains the generated summary of tests using Playwright's own report features, navigable by accessing the index.html in this repository as GitHub pages was enabled for such purpose.
+The folder playwright-report contains the generated summary of tests using Playwright's own report features, navigable by accessing the index.html found in the /playwright-reports/ folder in this repository as GitHub pages was enabled for such purpose.
